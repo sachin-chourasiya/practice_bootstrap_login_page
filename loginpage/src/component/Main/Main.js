@@ -16,7 +16,7 @@ const Main = () => {
         </div>
         <div className="col-12">
           <label htmlFor="inputAddress" className="form-label">Address</label>
-          <input type="text" className="form-control" id="inputAddress" placeholder="1234 Main St" />
+          <input type="text" className="form-control" id="inputAddress" placeholder="Parmenent Address " />
         </div>
         <div className="col-12">
           <label htmlFor="inputAddress2" className="form-label">Address 2</label>
